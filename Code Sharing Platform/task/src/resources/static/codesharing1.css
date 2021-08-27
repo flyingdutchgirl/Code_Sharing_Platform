@@ -1,0 +1,9 @@
+#load_date {
+    color: firebrick;
+}
+
+#code_snippet {
+    border: black solid 1px;
+    background: aliceblue;
+    margin: auto;
+}

@@ -1,0 +1,32 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Scanner;
+    import java.util.regex.Matcher;
+    import java.util.regex.Pattern;
+
+
+    class FindTheKeys {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+
+            String text = scanner.nextLine();
+
+            // write your code here
+
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12800#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    Main.java:22: error: ';' expected
+            String boundary = "[\b]"
+                                    ^
+    1 error
+  time: Mon, 23 Aug 2021 21:26:37 UTC
+record: -1

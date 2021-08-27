@@ -1,0 +1,16 @@
+.code {
+    border: black solid 1px;
+    background: aliceblue;
+    font-family: "Times New Roman", sans-serif;
+    max-width: 70%;
+}
+
+.date1 {
+    color: forestgreen;
+    font-size-adjust: 0.75;
+    font-family: "Arial", sans-serif;
+}
+
+body {
+    background: papayawhip;
+}
